@@ -14,7 +14,9 @@ where $\mathcal{H}^k_{\text{cc}}\equiv\text{ker}\;d^k\cap\text{ker}\;\delta^k$.
 
 On a closed manifold,
 ```math
-\mathcal{H}^k_{\text{cc}}=\mathcal{H}^k_\Delta \\
+\mathcal{H}^k_{\text{cc}}=\mathcal{H}^k_\Delta
+```
+```math
 \mathcal{H}^k_\Delta \equiv \text{ker}\;\Delta^k = \{\omega^k\in\Omega^k(M)\mid\Delta^k\omega^k=0\}
 ```
 Therefore, the 3-component Hodge decomposition on a closed manifold becomes
