@@ -10,7 +10,7 @@ On a closed manifold $M$, the space of differential $k$-form $\Omega^k(M)$ can b
 ```math
 \Omega^k(M)= \text{im}\;\delta^{k+1} \oplus \text{im}\;d^{k-1} \oplus \mathcal{H}^k_{\text{cc}},
 ```
-where $\mathcal{H}^k_{\text{cc}}\equiv\text{ker}\;d^k\cap\text{ker}\;\delta^k$. 
+where $\mathcal{H}^k_{\text{cc}}\equiv\text{ker }d^k\cap\text{ker }\delta^k$. 
 
 On a closed manifold,
 ```math
